@@ -21,7 +21,3 @@ Each game has its own folder in this repository:
 ## Contributing
 
 Feel free to contribute to this repository by adding new features, fixing bugs, or improving the existing code. If you have any suggestions or feedback, please create an issue or submit a pull request. Your contributions are greatly appreciated!
-
-## License
-
-This project is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the code for personal and commercial purposes. See the `LICENSE` file for more details.
